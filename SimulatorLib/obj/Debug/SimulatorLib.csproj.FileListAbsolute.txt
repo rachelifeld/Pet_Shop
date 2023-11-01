@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\SimulatorLib.deps.json
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\SimulatorLib.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\SimulatorLib.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.AssemblyInfo.cs
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.csproj.CopyComplete
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\refint\SimulatorLib.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\SimulatorLib.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\SimulatorLib\obj\Debug\ref\SimulatorLib.dll

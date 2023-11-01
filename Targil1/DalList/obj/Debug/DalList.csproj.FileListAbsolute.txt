@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\DalList.deps.json
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\DalList.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\DalList.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\refint\DalList.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\DalList.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\Targil1\DalList\obj\Debug\ref\DalList.dll

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Product>
+    <ID>183</ID>
+    <Name>bear</Name>
+    <Price>1234</Price>
+    <Category>dogs</Category>
+    <InStock>0</InStock>
+  </Product>
+  <Product>
+    <ID>16</ID>
+    <Name>Maine Coon Cats</Name>
+    <Price>250</Price>
+    <Category>cats</Category>
+    <InStock>0</InStock>
+  </Product>
+  <Product>
+    <ID>24</ID>
+    <Name>Mamba Snake</Name>
+    <Price>350</Price>
+    <Category>snakes</Category>
+    <InStock>44</InStock>
+  </Product>
+  <Product>
+    <ID>10</ID>
+    <Name>German Shepherd Dog</Name>
+    <Price>350</Price>
+    <Category>dogs</Category>
+    <InStock>2</InStock>
+  </Product>
+  <Product>
+    <ID>19</ID>
+    <Name>Tuna Fish</Name>
+    <Price>400</Price>
+    <Category>fish</Category>
+    <InStock>5</InStock>
+  </Product>
+  <Product>
+    <ID>15</ID>
+    <Name>British Shorthair Cat</Name>
+    <Price>350</Price>
+    <Category>cats</Category>
+    <InStock>0</InStock>
+  </Product>
+  <Product>
+    <ID>17</ID>
+    <Name>Sphynx Cats</Name>
+    <Price>200</Price>
+    <Category>cats</Category>
+    <InStock>2</InStock>
+  </Product>
+  <Product>
+    <ID>13</ID>
+    <Name>Golden Retrieve Dog</Name>
+    <Price>300</Price>
+    <Category>dogs</Category>
+    <InStock>11</InStock>
+  </Product>
+  <Product>
+    <ID>12</ID>
+    <Name>Ragdoll Cat</Name>
+    <Price>350</Price>
+    <Category>cats</Category>
+    <InStock>4</InStock>
+  </Product>
+  <Product>
+    <ID>26</ID>
+    <Name>Bandy Bandy Snake</Name>
+    <Price>200</Price>
+    <Category>snakes</Category>
+    <InStock>11</InStock>
+  </Product>
+  <Product>
+    <ID>14</ID>
+    <Name>Persian Cat</Name>
+    <Price>300</Price>
+    <Category>cats</Category>
+    <InStock>3</InStock>
+  </Product>
+  <Product>
+    <ID>21</ID>
+    <Name>Gold Fish</Name>
+    <Price>150</Price>
+    <Category>fish</Category>
+    <InStock>148</InStock>
+  </Product>
+  <Product>
+    <ID>22</ID>
+    <Name>Trout Fish</Name>
+    <Price>300</Price>
+    <Category>fish</Category>
+    <InStock>3</InStock>
+  </Product>
+  <Product>
+    <ID>28</ID>
+    <Name>cit fish</Name>
+    <Price>12</Price>
+    <Category>fish</Category>
+    <InStock>3</InStock>
+  </Product>
+  <Product>
+    <ID>20</ID>
+    <Name>Salmon Fish</Name>
+    <Price>300</Price>
+    <Category>fish</Category>
+    <InStock>7</InStock>
+  </Product>
+  <Product>
+    <ID>18</ID>
+    <Name>Scottish Fold Cats</Name>
+    <Price>400</Price>
+    <Category>cats</Category>
+    <InStock>0</InStock>
+  </Product>
+  <Product>
+    <ID>23</ID>
+    <Name>Asian Cobra Snake</Name>
+    <Price>550</Price>
+    <Category>snakes</Category>
+    <InStock>2</InStock>
+  </Product>
+</Products>

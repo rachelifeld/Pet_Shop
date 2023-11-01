@@ -1,0 +1,22 @@
+﻿<Window x:Class="PL.Cart.checkOutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Cart"
+        mc:Ignorable="d"
+        Title="checkOutWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Cart/1.jpg"/>
+        </Grid.Background>
+        <Label x:Name="ClientName" Content=" Client Name" HorizontalAlignment="Left" Margin="22,38,0,0" VerticalAlignment="Top" Height="29" Width="113" FontSize="16" FontFamily="Viner Hand ITC" FontWeight="Bold"/>
+        <Label x:Name="ClientEmail" Content="Client Email" HorizontalAlignment="Left" Margin="22,110,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Viner Hand ITC" FontWeight="Bold"/>
+        <Label x:Name="AddressForDelivery" Content="Address For Delivery" HorizontalAlignment="Left" Margin="22,181,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Viner Hand ITC" FontWeight="Bold"/>
+        <TextBox x:Name="ClientNametxt"  HorizontalAlignment="Left" Margin="184,48,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontFamily="Comic Sans MS" Width="159" Background="#FFC1C1C1"/>
+        <TextBox x:Name="ClientEmailtxt" HorizontalAlignment="Left" Margin="184,118,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontFamily="Comic Sans MS" Width="159" Background="#FFC1C1C1"/>
+        <TextBox x:Name="AddressForDeliverytxt"  HorizontalAlignment="Left" Margin="184,190,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontFamily="Comic Sans MS" Width="159" RenderTransformOrigin="-0.844,6.726" Background="#FFC1C1C1"/>
+        <Button x:Name="OrderBtn" Content="Order" HorizontalAlignment="Left" Height="45" Margin="94,286,0,0" VerticalAlignment="Top" Width="170" Click="OrderBtn_Click" Background="#FF4DAF76" FontSize="24" FontFamily="Viner Hand ITC"/>
+
+    </Grid>
+</Window>

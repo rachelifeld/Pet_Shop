@@ -1,0 +1,35 @@
+﻿<Window x:Class="PL.Product.ProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Product"
+        mc:Ignorable="d"
+        Title="ProductWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Product/1.jpg"/>
+        </Grid.Background>
+        <Label x:Name="ID" Content="ID" HorizontalAlignment="Left" Margin="28,75,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label x:Name="Category" Content="Category" HorizontalAlignment="Left" Margin="28,112,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label x:Name="Name" Content="Name" HorizontalAlignment="Left" Margin="27,38,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label x:Name="Price" Content="Price" HorizontalAlignment="Left" Margin="31,152,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.415,2.62" FontSize="20" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label x:Name="inStock" Content="in Stock" HorizontalAlignment="Left" Margin="32,195,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <TextBox x:Name="TextBoxPrice" HorizontalAlignment="Left" Margin="132,157,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="TextBoxPrice_TextChanged" Height="22" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16" Background="#FFC1C1C1"/>
+        <TextBox x:Name="TextBoxID"  HorizontalAlignment="Left" Margin="132,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="TextBoxID_TextChanged" Height="22" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16" Background="#FFC1C1C1"/>
+        <TextBox x:Name="TextBoxName" HorizontalAlignment="Left" Margin="132,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="TextBoxName_TextChanged" Height="23" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16" Background="#FFC1C1C1" />
+        <TextBox  x:Name="TextBoxInStock" HorizontalAlignment="Left" Margin="132,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="TextBoxInStock_TextChanged" Height="22" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16"/>
+        <ComboBox x:Name="ComboBoxCategory" HorizontalAlignment="Left" Margin="132,112,0,0" VerticalAlignment="Top" Width="143" SelectionChanged="ComboBox_SelectionChanged" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FFC1C1C1" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Button x:Name="AddProduct" Content="AddProduct" HorizontalAlignment="Left" Height="41" Margin="32,301,0,0" VerticalAlignment="Top" Width="146" Click="AddProduct_Click" FontSize="25" FontFamily="Tw Cen MT Condensed Extra Bold" Background="#FF4DAF76"/>
+        <Label x:Name="Amount" Content="Amount" HorizontalAlignment="Left" Margin="32,195,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold" RenderTransformOrigin="-0.846,0.411"/>
+        <TextBox  x:Name="TextBoxAmount" HorizontalAlignment="Left" Margin="132,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" Height="22" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16" Background="#FFC1C1C1"/>
+        <Button x:Name="deleteProductBtn" Content="deleteProduct" HorizontalAlignment="Left" Height="41" Margin="204,301,0,0" VerticalAlignment="Top" Width="146" Click="deleteProduct_Click" FontSize="25" FontFamily="Tw Cen MT Condensed Extra Bold" Background="#FF4DAF76"/>
+    </Grid>
+</Window>

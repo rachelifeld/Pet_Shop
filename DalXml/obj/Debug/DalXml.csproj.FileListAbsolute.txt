@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\DalXml.deps.json
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\DalXml.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\DalXml.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\DalXml.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\DalXml\obj\Debug\ref\DalXml.dll

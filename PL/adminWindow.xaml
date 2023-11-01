@@ -1,0 +1,17 @@
+﻿<Window x:Class="PL.adminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL"
+        mc:Ignorable="d"
+        Title="adminWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/1.jpg"/>
+        </Grid.Background>
+        <Button x:Name="AllProductsListWindow" Content="PRODUCTS" HorizontalAlignment="Left" Margin="72,217,0,0" VerticalAlignment="Top" Click="GoToProductsList_Click" Height="91" Width="211" FontFamily="Viner Hand ITC" FontSize="28" Background="#FF4DAF76" FontWeight="Bold"/>
+        <Button x:Name="AllListWindow" Content="ORDERS" HorizontalAlignment="Left" Margin="72,70,0,0" VerticalAlignment="Top" Click="GoToOrdersList_Click" Height="94" Width="211" FontFamily="Viner Hand ITC" FontSize="28" Opacity="1" Foreground="Black" Background="#FF4DAF76" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

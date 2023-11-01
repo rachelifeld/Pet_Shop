@@ -1,0 +1,16 @@
+﻿<Window x:Class="PL.Order.OrderTrackingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Order"
+        mc:Ignorable="d"
+        Title="OrderTrackingWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Order/1.jpg"/>
+        </Grid.Background>
+        <ListBox x:Name="orderTrackingListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="20,22,32,107" Background="#00000000"/>
+        <Button x:Name="orderDetails" Content="orderDetails" Margin="322,356,322,22" Click="orderDetails_Click" Background="#FF4DAF76" FontSize="24" FontFamily="Viner Hand ITC" FontWeight="Bold"/>
+    </Grid>
+</Window>

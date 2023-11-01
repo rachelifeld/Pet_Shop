@@ -1,0 +1,71 @@
+﻿<Window x:Class="PL.Product.ProductListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Product"
+        mc:Ignorable="d"
+        Title="ProductListWindow" Height="640" Width="800">
+    <Grid Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Product/1.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="379*"/>
+            <ColumnDefinition Width="408*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="62.404"/>
+            <RowDefinition Height="499*"/>
+            <RowDefinition Height="62*"/>
+        </Grid.RowDefinitions>
+        <Grid Name="UpGrid" Height="auto" Grid.Row="0" Width="auto" Grid.ColumnSpan="3">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions >
+            <ComboBox Name="CategorySelector" SelectionChanged="CategorySelector_SelectionChanged" Margin="151,15,89,15" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="20">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="#FFC1C1C1" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+            <Label Content="category:" HorizontalAlignment="Left" Margin="24,8,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.316,-2.387" Height="54" Width="148" FontSize="30" FontWeight="Bold" FontFamily="Tw Cen MT Condensed Extra Bold" Foreground="Black">
+                <Label.Background>
+                    <ImageBrush/>
+                </Label.Background>
+            </Label>
+        </Grid>
+        <ListView x:Name="ProductListview"  MouseDoubleClick="ProductListview_MouseDoubleClick" Height="NaN" Width="NaN" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="16" Grid.ColumnSpan="3" Margin="0,57,0,5" Grid.RowSpan="2">
+            <ListView.Background>
+                <ImageBrush/>
+            </ListView.Background>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+            <ListView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate>
+                            <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding Name}"/>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                </GroupStyle>
+            </ListView.GroupStyle>
+        </ListView>
+
+
+        <Button x:Name="AddProductBtn" Content="Add New Product" HorizontalAlignment="Left" Margin="233,0,0,0" VerticalAlignment="Center" Click="AddProduct_Click" Grid.Column="2" Height="42" Width="153" FontFamily="Tw Cen MT Condensed Extra Bold" FontSize="20" Background="#FF4DAF76"/>
+    </Grid>
+
+</Window>
+
+

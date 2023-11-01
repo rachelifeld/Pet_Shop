@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\BL.deps.json
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\BL.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\bin\BL.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\refint\BL.dll
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\BL.pdb
+C:\Users\User\Downloads\dotNet5783_8047_9195-main\BL\obj\Debug\ref\BL.dll
