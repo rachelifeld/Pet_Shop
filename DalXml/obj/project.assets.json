@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\DalXml\\DalXml.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\petshop\\DalXml\\DalXml.csproj",
       "projectName": "DalXml",
-      "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\DalXml\\DalXml.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\petshop\\DalXml\\DalXml.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\DalXml\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\petshop\\DalXml\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj"
+            "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj"
             }
           }
         }

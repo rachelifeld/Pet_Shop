@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\PL\\PL.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\petshop\\PL\\PL.csproj",
       "projectName": "PL",
-      "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\PL\\PL.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\petshop\\PL\\PL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\PL\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\petshop\\PL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,11 +128,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\BL\\BL.csproj"
+            "C:\\Users\\User\\Desktop\\petshop\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\petshop\\BL\\BL.csproj"
             },
-            "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\SimulatorLib\\SimulatorLib.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\SimulatorLib\\SimulatorLib.csproj"
+            "C:\\Users\\User\\Desktop\\petshop\\SimulatorLib\\SimulatorLib.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\petshop\\SimulatorLib\\SimulatorLib.csproj"
             }
           }
         }

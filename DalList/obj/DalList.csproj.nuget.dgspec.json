@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalList\\DalList.csproj": {}
+    "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalList\\DalList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalList\\DalList.csproj": {
+    "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalList\\DalList.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalList\\DalList.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalList\\DalList.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalList\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\dotNet5783_8047_9195-main\\Targil1\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\petshop\\Targil1\\DalFacade\\DalFacade.csproj"
               }
             }
           }

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\User\Downloads\dotNet5783_8047_9195-main\PL\obj\Debug\
+C:\Users\User\Desktop\petshop\PL\obj\Debug\
 PL
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\User\Downloads\dotNet5783_8047_9195-main\PL\App.xaml
+C:\Users\User\Desktop\petshop\PL\App.xaml
 10981259588
 
 16-1181973492
-1991485076600
+197-958385860
 adminWindow.xaml;Cart\CartView.xaml;Cart\checkOutWindow.xaml;MainWindow.xaml;Order\OrderListWindow.xaml;Order\OrderTrackingWindow.xaml;Order\OrderWindow.xaml;Product\ProductListWindow.xaml;Product\ProductWindow.xaml;SimulatorWindow.xaml;
 
 True
